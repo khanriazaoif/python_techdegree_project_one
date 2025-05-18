@@ -14,7 +14,7 @@ import random
 
 def start_game():
     """Psuedo-code Hints
-    
+    TEST FOR GITUPLOAD
     When the program starts, we want to:
     ------------------------------------
     1. Display an intro/welcome message to the player.
