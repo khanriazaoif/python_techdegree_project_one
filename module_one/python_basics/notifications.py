@@ -1,2 +1,8 @@
-def notify_user(message):
-    print(f"🔔 Notification: {message}")
+def yell(text):
+    text = text.upper()
+    number_of_characters = len(text)
+    result = text + "!" * (number_of_characters // 2)
+    print(result)
+
+yell("You are doing great")
+yell("Don't forget to ask your boss for a raise")
